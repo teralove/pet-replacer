@@ -13,7 +13,7 @@ Customize your pet's appearance
 ### `pet help`
 - Outputs a list of available presets
 ### `pet [preset_name]`
-- Set your pet from a preset. (Example: "pet bunny" will make your pet a bunny!)
+- Set your pet from a preset. (Example: "/8 pet bunny" will make your pet a bunny!)
 ### `pet [templateId][huntingZoneId]`
 - Set your pet from any NPC model. You need to know the templateId and huntingZoneId though.
 
