@@ -3,7 +3,7 @@ Customize your pet's appearance
 
 ## Info
 - I don't recommend using Crab or Chupathingy in battle because they have collision boxes!
-- Available presets: none, bunny, cat, cow, chupathingy, crab, dog, goat, hog, pigeon, puppy, sheep, roaster
+- Available presets: none, bunny, cat, cow, chupathingy, crab, dog, goat, hog, pigeon, puppy, sheep, rooster
 - Module is client-side only, that means only you can see the difference. Nobody else can see your new pet.
 
 ## Usage
